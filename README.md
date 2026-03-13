@@ -12,6 +12,7 @@
 ✨ Apaixonado por desenvolvimento web
 
 ### 💼 Atuação profissional
+* Analista Desenvolvedor Sênior na [C&A Brasil](https://www.cea.com.br/)
 * Desenvolvedor back-end na [Digisystem](https://www.digisystem.com.br/)
 * Analista de sistemas na [Confitec](https://confitec.com.br/)
 * Desenvolvedor back-end na [Maida.health](https://maida.health/)
